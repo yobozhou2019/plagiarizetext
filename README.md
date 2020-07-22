@@ -1,2 +1,2 @@
 # plagiarizetext
-文本抄袭
+文本相似度比对
